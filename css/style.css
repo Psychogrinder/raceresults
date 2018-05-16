@@ -51,11 +51,7 @@ th{
   display: inline-block;
 }
 
-.black-row{
-  background-color: #000000;
-}
-
-.gray-row{
+.common:nth-child(odd) td{
   background-color: #323232;
 }
 
